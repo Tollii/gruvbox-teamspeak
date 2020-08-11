@@ -147,17 +147,17 @@ QToolButton[popupMode="1"] {
 	border: 1px solid #3c3836;
 	padding-right: 15px;
 	height: 12px;
-	background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #665c54, stop:1 #37393B);
+	background: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #3c3836, stop:1 #665c54);
 }
 QToolButton[popupMode="1"]:hover {
 	border: 1px solid #a89984;
 }
 QToolButton[popupMode="1"]:checked,
 QToolButton[popupMode="1"]:pressed {
-	border: 1px solid #a89984;
+	border: 1px solid #282828;
 	border-radius: 3px;
 	padding-right: 15px;
-	background: #3c3836;
+	background: #665c54;
 }
 QToolButton::menu-button {
 	border: 1px solid transparent;
