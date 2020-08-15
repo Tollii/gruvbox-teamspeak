@@ -1,4 +1,5 @@
 # http://forum.teamspeak.com/threads/65136-TeamSpeak-3-Package-Installer?p=286469#post286469
+*.ts3_style
 *.ts3_plugin
 *.ts3_soundpack
 *.ts3_iconpack
