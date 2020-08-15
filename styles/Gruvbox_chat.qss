@@ -37,7 +37,7 @@ a {
 .TextMessage_UserLink,
 .TextMessage_ChannelLink,
 .TextMessage_ServerLink {
-	color: #831598;
+	color: #fe8019;
 	text-decoration: none;
 	font-weight: bold;
 }
